@@ -1,0 +1,101 @@
+id,orszag,honap,nap,hossz,ar,ellatas
+1,Spanyolország,7,1,14,420000,reggeli
+2,Törökország,7,21,13,250000,félpanzió
+3,Olaszország,7,15,13,400000,félpanzió
+4,Olaszország,7,9,11,190000,félpanzió
+5,Törökország,6,2,6,250000,all inclusive
+6,Görögország,6,15,6,250000,all inclusive
+7,Horvatország,7,1,6,420000,félpanzió
+8,Olaszország,7,28,11,450000,félpanzió
+9,Törökország,6,14,8,250000,all inclusive
+10,Törökország,7,6,12,420000,reggeli
+11,Görögország,8,1,6,375000,all inclusive
+12,Spanyolország,8,23,4,400000,reggeli
+13,Spanyolország,7,12,12,450000,all inclusive
+14,Görögország,7,5,14,250000,reggeli
+15,Törökország,7,5,4,400000,félpanzió
+16,Görögország,8,17,3,250000,all inclusive
+17,Olaszország,6,23,10,450000,félpanzió
+18,Horvatország,7,2,8,250000,all inclusive
+19,Horvatország,7,12,3,250000,félpanzió
+20,Horvatország,6,2,13,450000,félpanzió
+21,Spanyolország,6,13,13,130000,reggeli
+22,Horvatország,6,21,8,400000,reggeli
+23,Olaszország,6,26,10,350000,all inclusive
+24,Spanyolország,7,12,12,375000,félpanzió
+25,Törökország,8,19,10,350000,félpanzió
+26,Görögország,7,9,10,450000,reggeli
+27,Horvatország,8,11,4,250000,all inclusive
+28,Törökország,6,29,5,280000,reggeli
+29,Spanyolország,8,9,4,190000,all inclusive
+30,Törökország,8,20,14,130000,félpanzió
+31,Görögország,8,26,3,99000,all inclusive
+32,Horvatország,6,9,9,130000,félpanzió
+33,Olaszország,8,3,5,280000,félpanzió
+34,Törökország,8,9,8,375000,reggeli
+35,Törökország,8,29,7,450000,reggeli
+36,Görögország,8,18,8,250000,félpanzió
+37,Törökország,8,30,12,99000,félpanzió
+38,Törökország,6,2,10,150000,félpanzió
+39,Görögország,7,21,7,190000,all inclusive
+40,Horvatország,6,12,13,400000,félpanzió
+41,Törökország,7,5,13,375000,all inclusive
+42,Olaszország,6,29,6,400000,all inclusive
+43,Spanyolország,6,12,4,190000,félpanzió
+44,Horvatország,6,18,13,400000,reggeli
+45,Törökország,7,9,11,150000,félpanzió
+46,Horvatország,8,30,8,99000,reggeli
+47,Olaszország,7,13,8,350000,reggeli
+48,Horvatország,8,2,11,280000,reggeli
+49,Spanyolország,6,9,5,280000,félpanzió
+50,Görögország,7,11,6,280000,reggeli
+51,Spanyolország,7,14,8,375000,félpanzió
+52,Törökország,8,12,6,150000,all inclusive
+53,Görögország,6,1,11,250000,reggeli
+54,Törökország,8,4,5,190000,félpanzió
+55,Olaszország,6,22,9,130000,reggeli
+56,Törökország,6,14,6,450000,félpanzió
+57,Görögország,7,10,9,375000,félpanzió
+58,Olaszország,8,11,12,130000,all inclusive
+59,Törökország,8,17,12,99000,félpanzió
+60,Spanyolország,6,23,6,400000,all inclusive
+61,Olaszország,6,28,4,190000,reggeli
+62,Spanyolország,8,13,5,280000,all inclusive
+63,Spanyolország,7,16,3,99000,reggeli
+64,Görögország,6,20,13,250000,all inclusive
+65,Olaszország,7,15,3,420000,all inclusive
+66,Spanyolország,7,15,3,420000,reggeli
+67,Horvatország,7,19,4,190000,félpanzió
+68,Olaszország,8,10,5,450000,all inclusive
+69,Törökország,6,23,3,280000,félpanzió
+70,Olaszország,8,16,3,450000,all inclusive
+71,Horvatország,8,5,12,420000,félpanzió
+72,Törökország,6,19,4,250000,all inclusive
+73,Horvatország,6,3,3,450000,félpanzió
+74,Spanyolország,6,11,11,150000,félpanzió
+75,Törökország,7,14,13,150000,félpanzió
+76,Olaszország,7,26,13,150000,reggeli
+77,Törökország,6,9,11,400000,reggeli
+78,Spanyolország,8,6,6,420000,félpanzió
+79,Spanyolország,8,29,4,99000,reggeli
+80,Görögország,8,24,10,150000,félpanzió
+81,Törökország,6,8,9,280000,all inclusive
+82,Spanyolország,7,13,12,420000,reggeli
+83,Olaszország,8,29,5,250000,all inclusive
+84,Spanyolország,8,19,4,99000,reggeli
+85,Olaszország,7,15,10,450000,félpanzió
+86,Olaszország,6,4,11,280000,reggeli
+87,Törökország,7,16,11,350000,reggeli
+88,Törökország,6,13,8,350000,félpanzió
+89,Spanyolország,7,1,14,250000,reggeli
+90,Spanyolország,7,8,10,450000,félpanzió
+91,Spanyolország,8,15,10,190000,reggeli
+92,Spanyolország,7,4,6,130000,félpanzió
+93,Görögország,8,16,3,400000,reggeli
+94,Olaszország,6,1,13,400000,félpanzió
+95,Görögország,6,13,4,190000,all inclusive
+96,Spanyolország,7,16,10,280000,reggeli
+97,Spanyolország,7,1,9,150000,all inclusive
+98,Olaszország,7,1,7,130000,félpanzió
+99,Görögország,8,25,13,420000,reggeli
+100,Görögország,8,8,9,150000,félpanzió
